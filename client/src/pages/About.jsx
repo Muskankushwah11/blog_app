@@ -8,7 +8,7 @@ export default function About() {
           </h1>
           <div className='text-md text-gray-500 flex flex-col gap-6'>
             <p>
-              Welcome to Sahand's Blog! This blog was created by Sahand Ghavidel
+              Welcome to Muskan's Blog! This blog was created by Muskan Kushwah
               as a personal project to share his thoughts and ideas with the
               world. Sahand is a passionate developer who loves to write about
               technology, coding, and everything in between.
@@ -20,6 +20,7 @@ export default function About() {
               languages. Sahand is always learning and exploring new
               technologies, so be sure to check back often for new content!
             </p>
+git status
 
             <p>
               We encourage you to leave comments on our posts and engage with
