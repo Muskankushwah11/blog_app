@@ -10,17 +10,17 @@ export default function About() {
             <p>
               Welcome to Muskan's Blog! This blog was created by Muskan Kushwah
               as a personal project to share his thoughts and ideas with the
-              world. Sahand is a passionate developer who loves to write about
+              world. Muskan is a passionate developer who loves to write about
               technology, coding, and everything in between.
             </p>
 
             <p>
               On this blog, you'll find weekly articles and tutorials on topics
               such as web development, software engineering, and programming
-              languages. Sahand is always learning and exploring new
+              languages. Muskan is always learning and exploring new
               technologies, so be sure to check back often for new content!
             </p>
-git status
+
 
             <p>
               We encourage you to leave comments on our posts and engage with
